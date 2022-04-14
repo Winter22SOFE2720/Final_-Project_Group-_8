@@ -5,7 +5,6 @@
 ###### Akshat Kapoor(100781511)
 ###### Steven Mai(100781485)
 ###### Prince Lucky-Worluh(100791723)
-###### Our product is Quixk shop, whihc is a online shopping platform to buy the proeducts user need. The website aim is provide user with best online shopping experinece.
 ## Software Description:
   ###### The goal of this project was to create a new online shopping platform 
 that people to conveniently order things like clothes, technology, and furniture online while providing the greatest user experience possible.
