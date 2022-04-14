@@ -27,8 +27,8 @@ Customers can easily order what they want, while sitting at home and are able to
 #### Requirements List
 #### Requirements Diagram
 
-#### Test Case
+## Test Case
 #### Table of test cases
 
-#### Use Cases
+## Use Cases
 #### Use Case Diagrams
